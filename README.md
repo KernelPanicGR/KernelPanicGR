@@ -1,2 +1,1 @@
-- 👋 Hi, my nickname is Kernel Panic
-- and i love to tinker with Electronics and stuff 
+- 👋 Hi, my nickname is Kernel Panic and i love to tinker with Electronics and stuff 
