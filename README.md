@@ -1,2 +1,3 @@
-- 👋 Hi, my nickname is Kernel Panic and i love to tinker with Electronics and stuff 
+- 👋 Hi, my nickname is Kernel Panic and i love to tinker with Electronics
 - I'm not a developer.
+- $ sudo make me happy!!!
